@@ -1,0 +1,252 @@
+*{
+    margin:auto;
+    padding:auto;
+}
+
+#background {
+    
+     background-image: url(https://www.meeting-point.com/wp-content/uploads/2019/09/America.jpg);
+    height:100vh;
+    width:100vw;
+    background-size:cover; /* Gör så att bilden täcker hela sidan */
+    background-repeat: no-repeat; /* Gör att det blir en bild istället för många */
+    
+}
+
+
+#logo {
+    
+    background-image: url(https://wallpaperaccess.com/full/188646.jpg);
+    width:34vw;
+    height:38vh;
+    float:left;
+    
+   
+}
+
+#blue {
+    
+    width:34vw;
+    height:38vh;
+    
+}
+
+#title {
+    
+    text-align: center;
+    color:white;
+    margin-top:15%;
+    font-family: 'Righteous', cursive;
+    font-size:6em;
+    transition: all 0.5s ease-in-out;
+}
+
+
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+    display:inline-block;
+   margin-left:1.7%;
+    margin-top:1%;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+    display:inline-block;
+    margin-left:2%;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+     margin-left:2%;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+     margin-left:2%;
+}
+
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+     margin-left:2%;
+}
+
+
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+         margin-left:2%;
+
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  margin-left:2%;
+
+}
+
+.fa-yahoo {
+  background: #430297;
+  color: white;
+    margin-left:2%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+    transition: all 0.5s ease-in-out;
+}
+
+#locations {
+    
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Golden_Gate_Bridge_Dec_15_2015_by_D_Ramey_Logan.jpg/1000px-Golden_Gate_Bridge_Dec_15_2015_by_D_Ramey_Logan.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat; /* Gör att det blir en bild istället för många */
+    
+    display:inline-block;
+   
+    width:85%;
+    height:8%;
+    text-align:center;
+    color:black;
+    font-size:1.5em;
+    font-family: 'Righteous', cursive;
+    margin-left:13%;
+    margin-top:0.5%;
+    text-decoration: none;
+    border-radius:15px;
+    transition: all 0.5s ease-in-out;
+    
+}
+
+#cites {
+    
+    display:inline-block;
+    background-color:white;
+     background-image: url(https://www.ciaalumninetwork.com/s/898/images/editor/Alumni/Events/nyc/new-york-skyline-nightcropped.jpg);
+    background-size: 100% 100px;
+    background-repeat: no-repeat; 
+    width:85%;
+    height:8%;
+    text-align:center;
+    color:black;
+    font-size:1.5em;
+    font-family: 'Righteous', cursive;
+    margin-left:13%;
+    margin-top:1%;
+    text-decoration: none;
+    border-radius:15px;
+    transition: all 0.5s ease-in-out;
+    
+    
+}
+
+#famousP
+{
+     background-image: url(https://wallpapercave.com/wp/wp1816999.jpg);
+    background-size: 100% 100px;
+    background-repeat: no-repeat; 
+    
+    display:inline-block;
+    
+    width:85%;
+    height:8%;
+    text-align:center;
+    color:black;
+    font-size:1.5em;
+    font-family: 'Righteous', cursive;
+    margin-left:13%;
+    margin-top:1%;
+    text-decoration: none;
+    border-radius:15px;
+    transition: all 0.5s ease-in-out;
+    
+}
+
+
+#companies {
+    
+    
+    background-image: url(https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2r0Th?ver=5b7d);
+    background-size: 100% 100px;
+    background-repeat: no-repeat; 
+    
+    display:inline-block;
+    
+    width:85%;
+    height:8%;
+    text-align:center;
+    color:black;
+    font-size:1.5em;
+    font-family: 'Righteous', cursive;
+    margin-left:13%;
+    margin-top:1%;
+    text-decoration: none;
+    border-radius:15px;
+    transition: all 0.5s ease-in-out;
+    
+}
+
+#food {
+    
+      background-image: url(https://joybauer.com/wp-content/uploads/2016/02/thumb_2139_content_big_wide.jpg);
+    background-size: 100% 100px;
+    background-repeat: no-repeat; 
+    
+    display:inline-block;
+    
+    width:85%;
+    height:8%;
+    text-align:center;
+    color:black;
+    font-size:1.5em;
+    font-family: 'Righteous', cursive;
+    margin-left:13%;
+    margin-top:1%;
+    text-decoration: none;
+    border-radius:15px;
+    transition: all 0.5s ease-in-out;
+    
+}
+
+#locations:hover {
+
+   opacity: 0.7;
+}
+
+#cites:hover {
+
+   opacity: 0.7;
+}
+
+#famousP:hover {
+
+   opacity: 0.7;
+}
+
+#companies:hover {
+
+   opacity: 0.7;
+}
+
+#food:hover {
+
+   opacity: 0.7;
+}
+
+
