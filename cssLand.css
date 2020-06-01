@@ -3,7 +3,7 @@
     padding:auto;
 }
 
-#background {
+#backgroundIndex {
     
      background-image: url(https://www.meeting-point.com/wp-content/uploads/2019/09/America.jpg);
     height:100vh;
@@ -249,4 +249,175 @@
    opacity: 0.7;
 }
 
+#backgroundLocations {
+    
+    background-image: url("https://images.bonnier.cloud/files/his/production/2020/01/28131603/new-york-lead.jpg?auto=compress&q=30&fit=crop&crop=focalpoint&fp-x=0.72&fp-y=0.32&ar=9%3A16&w=1920&ixlib=imgixjs-3.4.2");
+    height:350vh;
+    width:98.9vw;
+    background-size:cover; /* Gör så att bilden täcker hela sidan */
+    background-repeat: no-repeat; /* Gör att det blir en bild istället för många */
+    position: absolute;
+    
+}
 
+#boxLocations {
+    
+    background-color:#B2DACD;
+    height:280vh;
+    width:60vw;
+    margin-top:12%;
+    border-radius:15px;
+    filter:opacity(90%);
+  
+    
+}
+
+.rubrik {
+    
+    text-align:center;
+    font-family: 'Righteous', cursive;
+    color:white;
+    
+}
+
+#bilderLocations {
+    
+    width:30vw;
+    height:280vh;
+    float:left;
+    overflow:hidden;
+}
+
+#textLocations {
+    
+    width:30vw;
+    height:280vh;
+    display:inline-block;
+    overflow:hidden;
+}
+
+.picturesLocations {
+    
+    width:20vw;
+    height:30vh;
+    margin-left:18%;
+    margin-top:5%;
+    border: 1px solid;
+}
+
+.info {
+    
+    margin-top:4%;
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    font-size:1.1em;
+    margin-right:2%;
+}
+
+.home {
+
+    background-size: 100% 100%;
+    background-repeat: no-repeat; /* Gör att det blir en bild istället för många */
+    background-color:skyblue;
+    text-align:center;
+    color:black;
+    font-size:1.5em;
+    font-family: 'Righteous', cursive;
+    margin-top:1%;
+    text-decoration: none;
+    border-radius:15px;
+    
+    
+}
+
+.home:hover {
+
+   opacity: 0.7;
+}
+
+#topCities {
+    
+  
+    width:98.9vw;
+    height:40vh;
+    background-color:RGB(195, 68, 122);
+    background-image: url(https://mywholewall.com/wp-content/uploads/2017/11/newyork48x14.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat; /* Gör att det blir en bild */
+    
+    
+}
+    
+.headline {
+    
+    text-align:center;
+    font-family: 'Righteous', cursive;
+    color:honeydew;
+    font-size:5em;
+    margin-top:5%;
+    
+    
+    
+}
+
+#bottomCites {
+    
+    height:200vh;
+    width:98.9vw;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/32/20190616154621%21Echo_Park_Lake_with_Downtown_Los_Angeles_Skyline.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat; /* Gör att det blir en bild */
+    display: inline-block;
+    
+}
+
+.stad {
+    
+    height:45vh;
+    width:20vw;
+    margin-left:7.5%;
+    margin-top:4%;
+    display: inline-block;
+    
+}
+
+.rubrikTwo {
+    
+    color:white;
+    font-size:2em;
+    margin-left:18%;
+    font-family: 'Righteous', cursive;
+}
+
+.picturesCities {
+    
+    width:20vw;
+    height:30vh;
+    margin-left:18%;
+    border: 1px solid;
+     border-radius:15px;
+    
+    
+}
+
+#click {
+    
+    width:80vw;
+    height:10vh;
+    background-color:RGB(195, 68, 122);
+    margin-top:5%;
+    border-radius:15px;
+
+    
+}
+
+#clickH {
+    
+    font-size:2.5em;
+    text-align:center;
+     font-family: 'Righteous', cursive;
+   color:white;
+    
+    
+    
+    
+}
