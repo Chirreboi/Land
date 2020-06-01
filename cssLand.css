@@ -421,3 +421,9 @@
     
     
 }
+
+.picturesCities:hover{
+    
+    transform: scale(2.0); /* Gör bilden större när man har musen över */
+}
+
