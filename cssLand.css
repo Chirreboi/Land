@@ -427,3 +427,145 @@
     transform: scale(2.0); /* Gör bilden större när man har musen över */
 }
 
+
+
+.picturesFamous {
+  width: 100vw;
+  height: 100vh;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/a/a9/Tom_Hanks_TIFF_2019.jpg") no-repeat;
+}
+.picturesFamous:hover {
+  background: url("https://imengine.gota.infomaker.io/?uuid=b8d6ef51-dcf3-58f0-957c-b5ab2be94b44&width=960&height=480&type=preview&source=false&q=90&z=100&x=0.000&y=0.124&crop_w=1.000&crop_h=0.753&function=cropresize") no-repeat;
+}
+
+
+
+#topFamous {
+    
+    background-image: url(https://photobest1.com/wp-content/uploads/2018/04/Cool-Marilyn-Monroe-Wallpaper-10.jpg);
+    
+    background-size: 100% 100%;
+    background-repeat: no-repeat; /* Gör att det blir en bild */
+    
+    width:98.9vw;
+    height:60vh;
+   display: inline-block;
+       
+    
+    
+}
+
+#anton {
+    
+    font-family: 'Anton', sans-serif;
+    color:white;
+    text-align:center;
+   margin-top:7%;
+    font-size:7em;
+   
+    
+}
+
+#leftFamous {
+    
+   
+    width:50vw;
+    height:367.5vh;
+    float:left;
+    display:inline-block;
+    background-color:azure;
+   
+    
+}
+
+#rightFamous{
+    
+    
+    width:48.9vw;
+    height:367.5vh;
+    float:right;
+    display:inline-block;
+    background-color:azure;
+  
+}
+
+
+#tom {
+    
+    width:50vw;
+    height:70vh;
+    display: inline-block;
+    border: 3px solid;
+    
+        
+    
+}
+
+.black{
+    
+    text-align:center;
+    color:black;
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    font-size:3em;
+    
+    
+}
+
+
+#trump {
+    
+    width:50vw;
+    height:70vh;
+    display: inline-block;
+    border: 3px solid;
+    
+}
+
+#elvis {
+    
+    width:50vw;
+    height:70vh;
+    display: inline-block;
+    border: 3px solid;
+    
+}
+
+#depp {
+    
+    width:50vw;
+    height:70vh;
+    display: inline-block;
+    border: 3px solid;
+    
+}
+
+#jim {
+    
+    width:50vw;
+    height:70vh;
+    display: inline-block;
+    border: 3px solid;
+    
+    
+}
+
+.headL {
+    
+    font-family: 'Righteous', cursive;
+    text-align:center;
+    margin-top:10%;
+    
+    
+    
+}
+
+.para {
+    
+    margin-top:1%;
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    font-size:1.1em;
+    margin-left:15%;
+    border: 3px solid;
+    margin-right:15%;
+    
+}
