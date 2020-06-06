@@ -569,3 +569,225 @@
     margin-right:15%;
     
 }
+
+#topCompanies {
+    
+    background-image:url(https://hdwallsource.com/img/2017/5/mark-zuckerberg-wide-hd-wallpaper-59728-61517-hd-wallpapers.jpg);
+    width:98.9vw;
+    height:65vh;
+     background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+
+    
+}
+
+#middleCompanies {
+    
+    height:40vh;
+    width:98.9vw;
+    background-color:white;
+    background-image:url(https://media.istockphoto.com/vectors/wide-oak-wreath-icon-isolated-on-white-background-vector-id1151571122?k=6&m=1151571122&s=170667a&w=0&h=SyVcJjJ3hnUQuDPgFrO6wDQw6oedmuu-3KvXyWWez4U=);
+    display:inline-block;
+     background-size: 100% 100%;
+    background-repeat: no-repeat;
+        
+    
+    
+}
+
+
+#bottomCompanies {
+    
+    
+    height:400vh;
+    width:98.9vw;
+    background-color:whitesmoke;
+    
+    
+}
+
+.titel {
+    
+    text-align:center;
+    margin-top:5%;
+    font-family: 'Righteous', cursive;
+    font-size:3em;
+    
+}
+
+#underRubrik {
+    
+    text-align:center;
+    color:darkgray;
+    font-size:1em;
+    
+    
+}
+
+#facebook {
+    
+    border: 1px solid;
+    width:98.8vw;
+    height:100vh;
+    background-color:skyblue;
+    
+    
+}
+
+.youtube {
+    
+    margin-left:6%;
+    
+}
+
+.headFace {
+    
+    color:deepskyblue;
+    text-align:center;
+    font-family: 'Righteous', cursive;
+    font-size:3em;
+    
+}
+
+
+
+.compPicture {
+    
+    width:30vw;
+    height:40vh;
+    display: inline-block;
+    margin-left:20%;
+    
+    
+}
+
+#faceText{
+    
+    width:86vw;
+    height:40vh;
+    background-color:deepskyblue;
+    filter:opacity(40%);
+    margin-left:6%;
+    border: 1px solid;
+    border-radius:15px;
+    margin-top:2%;
+    
+}
+
+.textInfo {
+    
+    color:white;
+    margin-left:4%;
+    margin-right:4%;
+    margin-top:1%;
+    
+    
+}
+
+#microsoft {
+    
+    border: 1px solid;
+    height:100vh;
+    width:98.8vw;
+    
+    
+}
+
+.microRubrik {
+    
+    color:black;
+    text-align:center;
+    font-family: 'Righteous', cursive;
+    font-size:3em;
+    
+}
+
+
+
+#microText {
+    
+    width:86vw;
+    height:40vh;
+    background-color:grey;
+    filter:opacity(40%);
+    margin-left:6%;
+    border: 1px solid;
+    border-radius:15px;
+    margin-top:2%;
+    
+    
+}
+
+#apple {
+    
+    border: 1px solid;
+    height:100vh;
+    width:98.8vw;
+    background-color:white;
+    
+}
+
+#appleText {
+    
+    width:86vw;
+    height:40vh;
+    background-color:whitesmoke;
+    filter:opacity(40%);
+    margin-left:6%;
+    border: 1px solid;
+    border-radius:15px;
+    margin-top:2%;
+    
+}
+
+.rubrikBlack {
+    
+    text-align:center;
+    font-family: 'Righteous', cursive;
+    color:black;
+    
+}
+
+.textInfoTwo {
+    
+    color:black;
+    margin-left:4%;
+    margin-right:4%;
+    margin-top:1%;
+    
+}
+
+#walmart {
+    
+    border: 1px solid;
+    height:100vh;
+    width:98.8vw;
+    background-color:deepskyblue
+    
+    
+}
+
+.walRubrik {
+    
+    color:blue;
+    text-align:center;
+    font-family: 'Righteous', cursive;
+    font-size:3em;
+    
+}
+
+#walmartText {
+    
+    width:86vw;
+    height:40vh;
+    background-color:blue;
+    filter:opacity(40%);
+    margin-left:6%;
+    border: 1px solid;
+    border-radius:15px;
+    margin-top:2%;
+    
+    
+    
+}
